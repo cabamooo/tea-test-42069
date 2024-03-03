@@ -1,0 +1,16 @@
+{
+  "name": "tea-test-42069",
+  "version": "1.0.4",
+  "description": "Test program for the Tea Testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "github:cabamooo/tea-test",
+  "author": "cabamooo",
+  "license": "ISC",
+	"dependencies": {
+    "mocha": "mochajs/mocha#4727d357ea",
+    "tea-test-69420": "^1.0.0"
+	}
+  }

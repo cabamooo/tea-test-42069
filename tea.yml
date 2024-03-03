@@ -1,0 +1,5 @@
+# Tea constitution
+quorum: 1
+version: 1.0
+codeOwners:  
+- '0xa87Cc652752c1E562A75Bd3b7B14D5F1BE286224'

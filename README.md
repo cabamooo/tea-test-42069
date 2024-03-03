@@ -1,1 +1,3 @@
-# tea-test-42069
+# tea-test
+
+Example project for tea testnet.  Uses function to simulate snail breeding from twitter @SnailTrailGame.
