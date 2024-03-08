@@ -1,12 +1,15 @@
 {
   "name": "tea-test-42069",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Test program for the Tea Testnet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "github:cabamooo/tea-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cabamooo/tea-test-42069.git"
+  },
   "author": "cabamooo",
   "license": "ISC",
 	"dependencies": {
